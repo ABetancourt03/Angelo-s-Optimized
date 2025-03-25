@@ -1,3 +1,7 @@
+[![Banner](https://github.com/user-attachments/assets/8b84ecca-a8e3-4b49-9612-faf642365253)](https://modrinth.com/modpack/angelos-optimized)
+
+[![Modrinth](https://github.com/user-attachments/assets/559ccd34-7405-4a64-a14f-7c200a1c1825)](https://modrinth.com/modpack/angelos-optimized)
+
 > I've been looking for a modpack that would improve the game's performance for quite some time, so I decided to make my own and share it with the community.
 > 
 > If you'd like to try it out for yourself, I'll leave more information about the modpack below.

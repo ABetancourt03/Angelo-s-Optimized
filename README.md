@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-  <a href="https://modrinth.com/modpack/angelos-optimized">
+  <a href="https://modrinth.com/modpack/angelos-optimized" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/72cf68d7-83b3-436c-822d-cfd343d7f304">
   </a>
 
